@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.git/
+src/assets/*
+migrations/versions/__pycache__/
+*.log
